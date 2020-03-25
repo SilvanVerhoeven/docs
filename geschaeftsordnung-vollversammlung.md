@@ -61,7 +61,7 @@ Anträge können vor der Behandlung durch die antragstellende Person zurückgezo
 
 (5) Geschäftsordnungsanträge sind:
   1. Antrag auf Vertagung eines Tagesordnungspunktes (einfache Mehrheit),
-  2. Antrag auf den Schluss der Redeliste (falls vorhanden),
+  2. Antrag auf den Schluss der Redeliste,
   3. Antrag auf den Schluss der Beratung und ggf. sofortige Abstimmung,
   4. Antrag auf Ende der Sitzung,
   5. Antrag auf Feststellung und Protokollierung des Abstimmungsergebnisses durch Zählung.
