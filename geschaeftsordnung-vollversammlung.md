@@ -45,7 +45,7 @@ Anträge können vor der Behandlung durch die antragstellende Person zurückgezo
 
 (2) Änderungsanträge werden vor der Abstimmung des jeweiligen Antrags behandelt.
 
-(3) Änderungsanträge können nur von der den ursprünglichen Antrag stellenden Person direkt angenommen werden. Geschieht dies nicht, stimmt die Vollversammlung über die Annahme ab.
+(3) Änderungsanträge können von der den ursprünglichen Antrag stellenden Person direkt angenommen werden. Geschieht dies nicht, stimmt die Vollversammlung über die Annahme ab.
 
 (4) Änderungsanträge können vor der Vollversammlung schriftlich bekanntgegeben und begründet werden.
 
