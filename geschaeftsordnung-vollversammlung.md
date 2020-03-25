@@ -23,7 +23,7 @@ Die Geschäftsordnung gilt für die Vollversammlung der Fachschaft Digital Engin
 
 (2) Die Versammlungsleitung kann für einzelne Tagesordnungspunkte an andere Mitglieder der Fachschaft übergeben werden.
 
-(3) Die Versammlungsleitung kann bei Bedarf eine Redeliste führen und / oder die Redezeit begrenzen.
+(3) Die Versammlungsleitung kann bei Bedarf eine Redeliste führen und/oder die Redezeit begrenzen.
 
 (4) Die Versammlungsleitung entscheidet über die explizite Zählung und Protokollierung von Stimmen.
 
