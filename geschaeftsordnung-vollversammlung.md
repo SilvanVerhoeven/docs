@@ -43,7 +43,7 @@ Anträge können vor der Behandlung durch die antragstellende Person zurückgezo
 
 (1) Änderungsanträge sind Anträge zur Änderung der Tagesordnung oder zur Änderung von Anträgen.
 
-(2) Änderungsanträge werden vor den jeweiligen Anträgen behandelt.
+(2) Änderungsanträge werden vor der Abstimmung des jeweiligen Antrags behandelt.
 
 (3) Änderungsanträge können nur von der den ursprünglichen Antrag stellenden Person direkt angenommen werden. Geschieht dies nicht, stimmt die Vollversammlung über die Annahme ab.
 
