@@ -53,7 +53,7 @@ Anträge können vor der Behandlung durch die antragstellende Person zurückgezo
 
 (1) Anträge zur Geschäftsordnung werden durch das Heben beider Arme angezeigt. Davon kann abgewichen werden, wenn die Intention für die Versammlungsleitung eindeutig erkennbar ist.
 
-(2) Anträge zur Geschäftsordnung werden vor Änderungsanträgen behandelt.
+(2) Anträge zur Geschäftsordnung werden unverzüglich behandelt.
 
 (3) Angenommene Geschäftsordnungsanträge stehen über den Bestimmungen dieser Geschäftsordnung.
 
