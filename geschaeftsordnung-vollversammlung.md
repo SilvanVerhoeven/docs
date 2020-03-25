@@ -78,5 +78,5 @@ Die hier genannten Quoren gelten abweichend zu § 7 (4).
 
 ## § 9 Änderung der Geschäftsordnung
 
-Die Vollversammlung kann Änderungen dieser Geschäftsordnung mit einer Zwei-Drittel-Mehrheit aller anwesenden Stimmberechtigten beschließen.
+Die Vollversammlung kann Änderungen dieser Geschäftsordnung mit einer Zweidrittelmehrheit aller anwesenden Stimmberechtigten beschließen.
 
