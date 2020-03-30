@@ -22,7 +22,7 @@ Die Organe der Fachschaft sind:
 
 (1) Die Vollversammlung der Fachschaft ist das oberste beschlussfassende Organ der Fachschaft. In der Vollversammlung haben alle Mitglieder der Fachschaft Sitz und Stimme sowie ein Rede- und Antragsrecht.
 
-(2) In jedem Studienjahr soll eine ordentliche Vollversammlung stattfinden. Für die Durchführung ist der Fachschaftsrat verantwortlich.
+(2) In jedem Studienjahr soll eine ordentliche Vollversammlung stattfinden. Ordentliche Vollversammlungen werden durch den Fachschaftsrat einberufen.
 
 (3) Außerordentliche Vollversammlungen können durch den Fachschaftsrat oder durch mindestens 15 Mitglieder der Fachschaft einberufen werden. Verantwortlich für die Durchführung sind die einberufenden Personen.
 
