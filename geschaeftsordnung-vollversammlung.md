@@ -13,13 +13,13 @@ Die Geschäftsordnung gilt für die Vollversammlung der Fachschaft Digital Engin
 
 (2) Die Tagesordnung muss Teil der fristgerechten Einladung einer Vollversammlung sein.
 
-(3) Änderungsanträge zur Tagesordnung einer ordentlichen Vollversammlung können bis zu 14 Tage vor der Vollversammlung bei den Einladenden gestellt werden.
+(3) Nach Versenden der fristgerechten Einladung können die einladenden Personen gestellte Anträge in die Tagesordnung aufnehmen.
 
 (4) 7 Tage vor einer ordentlichen Vollversammlung muss die finale Tagesordnung auf dem gleichen Weg wie die Einladung zur Vollversammlung bekanntgegeben werden.
 
 ## § 3 Versammlungsleitung
 
-(1) Die Vollversammlung wird von den Einladenden geleitet.
+(1) Die Vollversammlung wird von den einladenden Personen geleitet.
 
 (2) Die Versammlungsleitung kann für einzelne Tagesordnungspunkte an andere Mitglieder der Fachschaft übergeben werden.
 
@@ -37,23 +37,19 @@ Die Geschäftsordnung gilt für die Vollversammlung der Fachschaft Digital Engin
 
 ## § 5 Anträge
 
-(1) Anträge sind schriftlich zu verfassen und innerhalb von 14 Tagen nach Zugang der Einladung zu Vollversammlung bei den einladenden Personen einzureichen.
+(1) Anträge sind schriftlich zu verfassen und innerhalb von 14 Tagen nach Zugang der Einladung zur Vollversammlung bei den einladenden Personen einzureichen.
 
 (2) Die einladenden Personen entscheiden über die Aufnahme des Antrages in die Tagesordnung.
 
 (3) Anträge können vor der Behandlung durch die antragstellende Person zurückgezogen werden.
 
-Anträge können vor der Behandlung durch die antragstellende Person zurückgezogen werden.
-
 ## § 6 Änderungsanträge
 
-(1) Änderungsanträge sind Anträge zur Änderung der Tagesordnung oder zur Änderung von Anträgen.
+(1) Änderungsanträge werden vor der Abstimmung des jeweiligen Antrags behandelt.
 
-(2) Änderungsanträge werden vor der Abstimmung des jeweiligen Antrags behandelt.
+(2) Änderungsanträge können von der den ursprünglichen Antrag stellenden Person direkt angenommen werden. Geschieht dies nicht, stimmt die Vollversammlung über die Annahme ab.
 
-(3) Änderungsanträge können von der den ursprünglichen Antrag stellenden Person direkt angenommen werden. Geschieht dies nicht, stimmt die Vollversammlung über die Annahme ab.
-
-(4) Änderungsanträge können vor der Vollversammlung schriftlich bekanntgegeben und begründet werden.
+(3) Änderungsanträge können vor der Vollversammlung schriftlich bekanntgegeben und begründet werden.
 
 ## § 7 Anträge zur Geschäftsordnung
 
@@ -61,11 +57,13 @@ Anträge können vor der Behandlung durch die antragstellende Person zurückgezo
 
 (2) Anträge zur Geschäftsordnung werden unverzüglich behandelt.
 
-(3) Angenommene Geschäftsordnungsanträge stehen über den Bestimmungen dieser Geschäftsordnung.
+(3) Vor der Abstimmung darf je eine antragsberechtigte Person für bzw. gegen den Antrag das Wort erhalten.
 
 (4) Geschäftsordnungsanträge bedürfen einer Zweidrittelmehrheit der anwesenden Mitglieder der Vollversammlung.
 
-(5) Geschäftsordnungsanträge sind:
+(5) Angenommene Geschäftsordnungsanträge stehen über den Bestimmungen dieser Geschäftsordnung.
+
+(6) Geschäftsordnungsanträge sind:
   1. Antrag auf Vertagung eines Tagesordnungspunktes (einfache Mehrheit),
   2. Antrag auf den Schluss der Redeliste,
   3. Antrag auf den Schluss der Beratung und ggf. sofortige Abstimmung,
