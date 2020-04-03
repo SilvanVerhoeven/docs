@@ -68,7 +68,7 @@ Die Geschäftsordnung gilt für die Vollversammlung der Fachschaft Digital Engin
   2. Antrag auf den Schluss der Redeliste,
   3. Antrag auf den Schluss der Beratung und ggf. sofortige Abstimmung,
   4. Antrag auf Ende der Sitzung,
-  5. Antrag auf Feststellung und Protokollierung des Abstimmungsergebnisses durch Zählung.
+  5. Antrag auf Zählung und Protokollierung des Abstimmungsergebnisses (auf Verlangen einer Person).
   
 Die hier genannten Quoren gelten abweichend zu § 7 (4).
 
