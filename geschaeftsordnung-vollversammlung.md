@@ -61,9 +61,7 @@ Die Geschäftsordnung gilt für die Vollversammlung der Fachschaft Digital Engin
 
 (4) Geschäftsordnungsanträge bedürfen einer Zweidrittelmehrheit der anwesenden Mitglieder der Vollversammlung.
 
-(5) Angenommene Geschäftsordnungsanträge stehen über den Bestimmungen dieser Geschäftsordnung.
-
-(6) Geschäftsordnungsanträge sind:
+(5) Geschäftsordnungsanträge sind:
   1. Antrag auf Vertagung eines Tagesordnungspunktes (einfache Mehrheit),
   2. Antrag auf den Schluss der Redeliste,
   3. Antrag auf den Schluss der Beratung und ggf. sofortige Abstimmung,
