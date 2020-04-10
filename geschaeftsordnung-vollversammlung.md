@@ -39,7 +39,7 @@ Die Geschäftsordnung gilt für die Vollversammlung der Fachschaft Digital Engin
 
 (1) Anträge sind schriftlich zu verfassen und innerhalb von 14 Tagen nach Zugang der Einladung zur Vollversammlung bei den einladenden Personen einzureichen.
 
-(2) Die einladenden Personen entscheiden über die Aufnahme des Antrages in die Tagesordnung.
+(2) Die einladenden Personen entscheiden über die Aufnahme des Antrags in die Tagesordnung.
 
 (3) Anträge können vor der Behandlung durch die antragstellende Person zurückgezogen werden.
 
