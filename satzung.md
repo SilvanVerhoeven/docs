@@ -3,7 +3,6 @@
 Diese Satzung ist am 14.11.2019 durch Beschluss der Vollversammlung in Kraft getreten.
 
 
-
 ## § 1 Geltungsbereich
 
 Alle Studierenden der Universität Potsdam in den Studiengängen IT-Systems Engineering, Data Engineering, Digital Health und Cybersecurity sowie alle an der Digital Engineering Fakultät eingeschriebenen Promotionsstudierenden sind Mitglieder der Fachschaft Digital Engineering.
@@ -26,7 +25,7 @@ Die Organe der Fachschaft sind:
 
 (3) Außerordentliche Vollversammlungen können durch den Fachschaftsrat oder durch mindestens 15 Mitglieder der Fachschaft einberufen werden. Verantwortlich für die Durchführung sind die einberufenden Personen.
 
-(4) Ordentliche Vollversammlungen müssen mindestens 28 Tage vorher per E-Mail an die Fachschaft angekündigt werden, außerordentliche Vollversammlungen mindestens 14 Tage im Voraus. Für Vollversammlungen mit Satzungsänderungsanträgen gilt dieselbe Einladungsfrist wie für ordentliche Vollversammlungen. Eine ordnungsgemäß angekündigte Vollversammlung ist beschlussfähig.
+(4) Ordentliche Vollversammlungen müssen mindestens 28 Tage vorher per E-Mail an die Fachschaft angekündigt werden, außerordentliche Vollversammlungen mindestens 14 Tage im Voraus. Satzugsänderungen können nur auf Vollversammlungen beschlossen werden, zu denen abweichend zu den allgemeinen Regelungen mindestens 28 Tage im Voraus eingeladen wurde. Eine ordnungsgemäß angekündigte Vollversammlung ist beschlussfähig.
 
 (5) Vollversammlungen dürfen nur während der Vorlesungszeit einberufen werden und müssen auf dem Gelände der Digital Engineering Fakultät stattfinden.
 
@@ -86,4 +85,4 @@ Zu den Aufgaben des Fachschaftsrates gehören insbesondere:
 
 (1) Die Änderung der Satzung kann nur erfolgen, wenn zwei Drittel der bei einer ordentlichen Vollversammlung stimmberechtigten Anwesenden dem Antrag zustimmen.
 
-(2) Satzungsänderungen müssen mit der ersten Einladung zur Vollversammlung angekündigt werden.
+(2) Die beantragte Satzungsänderung muss mit der ersten Einladung zur Vollversammlung zur Verfügung gestellt werden.
