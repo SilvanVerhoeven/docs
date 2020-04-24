@@ -13,9 +13,9 @@ Die Geschäftsordnung gilt für die Vollversammlung der Fachschaft Digital Engin
 
 (2) Die Tagesordnung muss Teil der fristgerechten Einladung einer Vollversammlung sein.
 
-(3) Nach Versenden der fristgerechten Einladung können die einladenden Personen gestellte Anträge in die Tagesordnung aufnehmen.
+(3) Bis 14 Tage vor einer Vollversammlung können die einladenden Personen gestellte Anträge in die Tagesordnung aufnehmen.
 
-(4) 7 Tage vor einer ordentlichen Vollversammlung muss die finale Tagesordnung auf dem gleichen Weg wie die Einladung zur Vollversammlung bekanntgegeben werden.
+(4) Bis 7 Tage vor einer Vollversammlung muss die finale Tagesordnung auf dem gleichen Weg wie die Einladung zur Vollversammlung bekanntgegeben werden.
 
 ## § 3 Versammlungsleitung
 
