@@ -25,7 +25,9 @@ Die Organe der Fachschaft sind:
 
 (3) Außerordentliche Vollversammlungen können durch den Fachschaftsrat oder durch mindestens 15 Mitglieder der Fachschaft einberufen werden. Verantwortlich für die Durchführung sind die einberufenden Personen.
 
-(4) Ordentliche Vollversammlungen müssen mindestens 28 Tage vorher per E-Mail an die Fachschaft angekündigt werden, außerordentliche Vollversammlungen mindestens 14 Tage im Voraus. Satzugsänderungen können nur auf Vollversammlungen beschlossen werden, zu denen abweichend zu den allgemeinen Regelungen mindestens 28 Tage im Voraus eingeladen wurde. Eine ordnungsgemäß angekündigte Vollversammlung ist beschlussfähig.
+(4) Ordentliche Vollversammlungen müssen mindestens 28 Tage im Voraus per E-Mail an die Fachschaft angekündigt werden, außerordentliche Vollversammlungen mindestens 14 Tage im Voraus. Unabhängig davon müssen Vollversammlungen, auf denen über Satzungsänderungen abgestimmt werden soll mindestens 28 Tage im Voraus angekündigt werden.
+
+(5) Jede ordnungsgemäß angekündigte Vollversammlung ist beschlussfähig.
 
 (5) Vollversammlungen dürfen nur während der Vorlesungszeit einberufen werden und müssen auf dem Gelände der Digital Engineering Fakultät stattfinden.
 
