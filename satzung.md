@@ -29,7 +29,7 @@ Die Organe der Fachschaft sind:
 
 (5) Jede ordnungsgemäß angekündigte Vollversammlung ist beschlussfähig.
 
-(5) Vollversammlungen dürfen nur während der Vorlesungszeit einberufen werden und müssen auf dem Gelände der Digital Engineering Fakultät stattfinden.
+(6) Vollversammlungen dürfen nur während der Vorlesungszeit einberufen werden.
 
 
 ## § 4 Fachschaftsrat
