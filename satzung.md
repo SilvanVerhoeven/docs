@@ -19,7 +19,7 @@ Die Organe der Fachschaft sind:
 
 ## § 3 Vollversammlung
 
-(1) Die Vollversammlung der Fachschaft ist das oberste beschlussfassende Organ der Fachschaft. In der Vollversammlung haben alle Mitglieder der Fachschaft Sitz und Stimme sowie ein Rede- und Antragsrecht.
+(1) Die Vollversammlung der Fachschaft ist das oberste beschlussfassende Organ der Fachschaft. In der Vollversammlung haben alle Mitglieder der Fachschaft Rede-, Antrags- und Stimmrecht.
 
 (2) In jedem Studienjahr soll eine ordentliche Vollversammlung stattfinden. Ordentliche Vollversammlungen werden durch den Fachschaftsrat einberufen.
 
