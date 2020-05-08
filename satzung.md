@@ -31,6 +31,8 @@ Die Organe der Fachschaft sind:
 
 (6) Vollversammlungen dürfen nur während der Vorlesungszeit einberufen werden.
 
+(7) Die Vollversammlung gibt sich eine Geschäftsordnung.
+
 
 ## § 4 Fachschaftsrat
 
