@@ -1,8 +1,6 @@
-
 # Geschäftsordnung des Fachschaftsrates Digital Engineering
 
 Diese Geschäftsordnung wurde am 13.03.2019 vom Fachschaftsrat beschlossen.
-
 
 
 ## § 1 Geltungsbereich
