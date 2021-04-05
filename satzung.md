@@ -1,6 +1,6 @@
 # Satzung der Fachschaft Digital Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Diese Satzung ist am 14.11.2019 durch Beschluss der Vollversammlung in Kraft getreten.
+Diese Satzung ist am XX.XX.XXXX durch Beschluss der Vollversammlung in Kraft getreten.
 
 
 
@@ -26,7 +26,13 @@ Die Organe der Fachschaft sind:
 
 (3) Außerordentliche Vollversammlungen können durch den Fachschaftsrat oder durch mindestens 15 Mitglieder der Fachschaft einberufen werden. Verantwortlich für die Durchführung sind die einberufenden Personen.
 
+<<<<<<< HEAD
 (4) Vollversammlungen müssen mindestens 14 Tage vorher per E-Mail an die Fachschaft angekündigt werden. Eine ordnungsgemäß angekündigte Vollversammlung ist beschlussfähig.
+=======
+(4) Ordentliche Vollversammlungen müssen mindestens 28 Tage im Voraus per E-Mail an die Fachschaft angekündigt werden, außerordentliche Vollversammlungen mindestens 14 Tage im Voraus. Unabhängig davon müssen Vollversammlungen, auf denen über Satzungsänderungen abgestimmt werden soll, mindestens 28 Tage im Voraus angekündigt werden.
+
+(5) Jede ordnungsgemäß angekündigte Vollversammlung ist beschlussfähig.
+>>>>>>> Redaktionelle Korrekturen
 
 (5) Vollversammlungen dürfen nur während der Vorlesungszeit einberufen werden.
 
